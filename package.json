@@ -2,7 +2,8 @@
   "name": "raffaello",
   "version": "1.0.0",
   "main": "server.js",
-  "scripts": {
+  "scripts": {"node-fetch": "^2.6.7"
+
     "start": "node server.js"
   },
   "dependencies": {
